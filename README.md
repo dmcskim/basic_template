@@ -15,6 +15,6 @@ Use git to clone this repository and make it your own.
 * [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
 ### Documentation
 * [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
-* [Github MarkDown Cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
-* [Bootstrap] (https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+* [Github MarkDown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
+* [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 * [AWS Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html)
