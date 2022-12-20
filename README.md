@@ -1,6 +1,6 @@
 # Basic Data Science Portfolio Website Template
-### Thrown together by: Daniel McSkimming
-### Based on/copied from: [Julia Nikulski](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-website-335b0f253822)
+#### Thrown together by: Daniel McSkimming
+#### Based on/copied from: [Julia Nikulski](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-website-335b0f253822)
 
 ## Installation
 Use git to clone this repository and make it your own.
